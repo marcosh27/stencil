@@ -1,0 +1,28 @@
+.header{
+    background-color: #E0E3D8;
+    width: 100%;
+    position: relative;
+}
+
+
+.toolbar{
+    display: flex;
+    padding: 0 24px;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+}
+.main{
+    background-color: #C9D4F0;
+    height: 100vh;
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+}
+.navbar{
+    background-color: #E0E3D8;
+    width: 100%;
+    
+    position: relative;
+    height: 150px;
+}
